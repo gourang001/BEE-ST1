@@ -1,0 +1,46 @@
+.homePage{
+    width: 100%;
+    min-height: 97vh;
+}
+
+.Home{
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-heading{
+    width: 50%;
+    margin: 90px 10px ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+.home-heading1{
+    width: 40%;
+    margin: 100px 10px ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.viewbutton{
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.bookimg{
+    margin-top: 0px;
+    width: 65%;
+    object-fit: cover;
+    border-radius: 10px;
+}
